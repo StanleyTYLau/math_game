@@ -1,5 +1,5 @@
 class Player
-  attr_reader :health
+  attr_reader :health, :name
 
   def initialize
     @health = 3

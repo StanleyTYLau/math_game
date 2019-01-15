@@ -18,5 +18,3 @@ class Turn
 
 end
 
-q1 = Turn.new
-puts q1.question
